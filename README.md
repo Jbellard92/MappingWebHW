@@ -1,2 +1,0 @@
-# MappingWebHW
-Leaflet
